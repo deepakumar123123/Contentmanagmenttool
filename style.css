@@ -1,0 +1,10 @@
+<div draggable="true">Drag me!</div>
+<div id="drop-zone">Drop here</div>
+
+<style>
+  #drop-zone {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+  }
+</style>
